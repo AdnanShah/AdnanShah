@@ -10,7 +10,7 @@ I'm a Computer Science graduate with an obsession with modern web technologies. 
 
 <h3>Little facts about me 🧑</h3>
 
-- 🧞 I'm a Tech Enthusiast since childhood.
+- 🧞 I'm a Tech Enthusiast.
 - 🔭 I’m currently working on Fullstack Web Development.
 - 👯 I’m looking to collaborate with Fullstack Web and Mobile Developement projects.
 - ⚡ Fun fact: I love Sports, especially Cricket.
