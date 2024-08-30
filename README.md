@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Adnan Shah</h1>
+<h1 align="center">Hi, I'm Adnan</h1>
 
 <p align="center">
   <em>
-    This is me <b>Adnan Shah</b>, a <b>Software Developer</b>.
+    This is me <b>Adnan</b>, a <b>Software Developer</b>.
     I'm a motivated, hard-working and work-oriented person who finds joy in new challenges and keep an eye out for them everyday. Ability to work well as a team member and exceptional work ethic. Desire to work in a professionally enriched environment for a challenging position utilizing creativity and a true desire to actively contribute which may enrich my skills and provide new horizons of excellence and personal development.
 I'm a Computer Science graduate with an obsession with modern web technologies. I'm quite confident with Javascript, ES6, NodeJs, ExpressJs, Next Js, React Js, Angular, Storybook, Jest, Cypress, BashScript and related technologies. Other than that I try to learn new techs everyday to grow my arsenal.
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
